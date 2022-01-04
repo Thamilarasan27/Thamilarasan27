@@ -12,3 +12,5 @@ Japanese language learning web application.
 **Framework:** Spring Boot 2.6.2 <br />
 **Project Type:** Maven Project <br />
 **Database:** MySQL
+
+## Refer [Coding Standards](docs/CodingStandards.md)
